@@ -90,7 +90,7 @@ export default function Projects() {
                     <ProjectCard
                         imageSrc="/images/project9.jpeg"
                         imageAlt="Figma to HTMl"
-                        title="Figma to HTMl"
+                        title="Figma to HTML"
                     />
                     <ButtonCard text="View Project" 
                     href="https://figma-to-html-nextjs-assignment.vercel.app/"/>
