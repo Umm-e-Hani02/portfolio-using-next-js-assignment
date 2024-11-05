@@ -8,7 +8,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project1.jpeg"
+                        imageSrc="/images/project1.jpeg"
                         imageAlt="CLI Calculator using Typescript"
                         title="CLI Calculator using Typescript"
                     />
@@ -18,7 +18,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project2.jpeg"
+                        imageSrc="/images/project2.jpeg"
                         imageAlt="CLI Number Guessing Game using Typescript"
                         title="CLI Number Guessing Game using Typescript"
                     />
@@ -28,7 +28,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project3.jpeg"
+                        imageSrc="/images/project3.jpeg"
                         imageAlt="Photography website using HTML CSS"
                         title="Photography website using HTML CSS"
                     />
@@ -38,7 +38,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project4.jpeg"
+                        imageSrc="/images/project4.jpeg"
                         imageAlt="Milestone 1 and 2: Static Resume"
                         title="Milestone 1 and 2: Static Resume"
                     />
@@ -48,7 +48,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project5.jpeg"
+                        imageSrc="/images/project5.jpeg"
                         imageAlt="Milestone 3: Dynamic Resume"
                         title="Milestone 3: Dynamic Resume"
                     />
@@ -58,7 +58,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project6.jpeg"
+                        imageSrc="/images/project6.jpeg"
                         imageAlt="Milestone 4: Editable Resume"
                         title="Milestone 4: Editable Resume"
                     />
@@ -68,7 +68,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project7.jpeg"
+                        imageSrc="/images/project7.jpeg"
                         imageAlt="Milestone 5: Shareable resume"
                         title="Milestone 5: Shareable resume"
                     />
@@ -78,7 +78,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project8.jpeg"
+                        imageSrc="/images/project8.jpeg"
                         imageAlt="Dynamic routing using Nextjs"
                         title="Dynamic routing using Nextjs"
                     />
@@ -88,7 +88,7 @@ export default function Projects() {
 
                 <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
-                        imageSrc="images/project9.jpeg"
+                        imageSrc="/images/project9.jpeg"
                         imageAlt="Figma to HTMl"
                         title="Figma to HTMl"
                     />

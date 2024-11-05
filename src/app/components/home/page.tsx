@@ -1,3 +1,4 @@
+import Image from "next/image"
 export default function HomePage(){
     return(
         <section className="bg-purple-950 p-12 flex items-centre justify-evenly" id="home">
@@ -26,7 +27,11 @@ export default function HomePage(){
             </div>
 
             <div>
-            <img className="h-[600px] ml-44 -mt-16" src="png/landingimg.png" alt="landing-img"/>
+                <Image className="ml-44 -mt-16"
+                src="/png/landingimg.png"
+                width={500}
+                height={500}
+                alt="landing-img"/>
             </div>
 
         </section>
