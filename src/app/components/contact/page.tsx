@@ -4,9 +4,9 @@ export default function Contact(){
     return(
 
         
-        <section className="bg-purple-950 h-[43rem] flex items-center justify-between" id="contact">
+        <section className="bg-slate-900 h-[43rem] flex items-center justify-between text-gray-200" id="contact">
 
-            <div className="items-center pl-5 ml-40">
+            <div className="items-center pl-5 ml-40 ">
                 <div className=" flex items-center m-5 mb-12">
                     <Image
                     src="/png/email.png"
