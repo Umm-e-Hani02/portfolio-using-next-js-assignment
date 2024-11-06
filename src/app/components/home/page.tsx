@@ -1,9 +1,9 @@
 import Image from "next/image"
 export default function HomePage(){
     return(
-        <section className="bg-purple-950 p-12 flex items-centre justify-evenly" id="home">
+        <section className="bg-slate-900 p-12 flex items-centre justify-evenly" id="home">
 
-            <div className="mt-24">
+            <div className="mt-24 text-gray-200">
 
                 <p>Hi There!</p>
                 <h1 className="text-4xl font-semibold">
