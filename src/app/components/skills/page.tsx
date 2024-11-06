@@ -1,7 +1,7 @@
 import Image from "next/image"
 export default function Skills() {
     return (
-        <section className="h-[44rem] bg-purple-950 flex flex-wrap gap-4 items-center justify-center text-white" id="skills">
+        <section className="h-[44rem] bg-slate-900 flex flex-wrap gap-4 items-center justify-center text-gray-200" id="skills">
             <div className="flex flex-col items-center mt-1">
                 <Image
                 src="/png/sketch.png"
