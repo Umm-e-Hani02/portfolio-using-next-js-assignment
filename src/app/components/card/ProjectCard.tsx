@@ -11,7 +11,7 @@ const ProjectCard = ({
 }) => {
     return (
         <div className="flex flex-col items-center gap-4">
-            <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+            <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                 <Image
                     src={imageSrc}
                     alt={imageAlt}
