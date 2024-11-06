@@ -3,10 +3,10 @@ import ButtonCard from "../card/ButtonCard";
 
 export default function Projects() {
     return (
-        <section className="bg-purple-950 flex justify-center items-center min-h-screen" id="projects">
+        <section className="bg-slate-900 flex justify-center items-center min-h-screen text-gray-200" id="projects">
             <div className="grid grid-cols-3 gap-6 p-10">
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project1.jpeg"
                         imageAlt="CLI Calculator using Typescript"
@@ -16,7 +16,7 @@ export default function Projects() {
                     href="https://github.com/Umm-e-Hani02/CLI-Calculator.git"/>
                 </div>
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project2.jpeg"
                         imageAlt="CLI Number Guessing Game using Typescript"
@@ -26,7 +26,7 @@ export default function Projects() {
                     href="https://github.com/Umm-e-Hani02/CLI-ATM-Machine.git"/>
                 </div>
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project3.jpeg"
                         imageAlt="Photography website using HTML CSS"
@@ -36,7 +36,7 @@ export default function Projects() {
                     href="https://photography-website-lyart.vercel.app/"/>
                 </div>
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project4.jpeg"
                         imageAlt="Milestone 1 and 2: Static Resume"
@@ -46,7 +46,7 @@ export default function Projects() {
                     href="https://hackathon-milestones1-2-journey.vercel.app/"/>
                 </div>
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project5.jpeg"
                         imageAlt="Milestone 3: Dynamic Resume"
@@ -56,7 +56,7 @@ export default function Projects() {
                     href="https://hackathon-milestones3-journey.vercel.app/"/>
                 </div>
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project6.jpeg"
                         imageAlt="Milestone 4: Editable Resume"
@@ -66,7 +66,7 @@ export default function Projects() {
                     href="https://hackathon-milestones4-journey.vercel.app/"/>
                 </div>
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project7.jpeg"
                         imageAlt="Milestone 5: Shareable resume"
@@ -76,7 +76,7 @@ export default function Projects() {
                     href="https://hackathon-milestones5-journey.vercel.app/"/>
                 </div>
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project8.jpeg"
                         imageAlt="Dynamic routing using Nextjs"
@@ -86,7 +86,7 @@ export default function Projects() {
                     href="https://country-listing-teal.vercel.app/"/>
                 </div>
 
-                <div className="bg-purple-800 p-4 rounded-lg flex flex-col items-center">
+                <div className="bg-slate-800 p-4 rounded-lg flex flex-col items-center">
                     <ProjectCard
                         imageSrc="/images/project9.jpeg"
                         imageAlt="Figma to HTMl"
